@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var students = ViewBag.Students as List<Students>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+</div>
+<table style="gap:10px ;margin: 10px auto; border:3px solid black ;">
+    <tr style="gap:10px; background-color:red">
+        <th>ID</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Semister</th>
+    </tr>
+    @{
+        foreach(var std in students)
+        {
+            <tr style="margin:10px; background-color:deepskyblue">
+                <td style="padding:13px;margin:4px; ">@std.Id</td>
+                <td style="padding:13px;margin:4px">@std.Name</td>
+                <td style="padding:13px;margin:4px">@std.Gender</td>
+                <td style="padding:13px;margin:4px">@std.Standard</td>
+           </tr>
+        }
+    }
+</table>

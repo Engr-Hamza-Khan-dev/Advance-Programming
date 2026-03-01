@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>This is about page</h1>
+<h1>MY name is Hamza Khan <br />And I Am from kpk</h1>
+<h2>Current time is @DateTime.Now</h2>
+<h2>Current Year is @DateTime.Now.Year</h2>
+
+
+@{
+    var name = "Hamza";
+    if (name == "Hamza")
+    {
+        <h2>hello hamza</h2>
+    }
+    else
+    {
+        <h2>hello someone</h2>
+    }
+}
+
+<h1>Hello @ViewBag.Data</h1>
+
+@{
+    foreach(var item in ViewBag.list)
+    {
+        <h3 style="background-color:orange">@item</h3>
+    }
+}
+
+@TempData["temp"]

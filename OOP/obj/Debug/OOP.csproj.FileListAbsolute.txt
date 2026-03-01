@@ -1,0 +1,7 @@
+D:\4th Semister\C#\OOP\bin\Debug\OOP.exe.config
+D:\4th Semister\C#\OOP\bin\Debug\OOP.exe
+D:\4th Semister\C#\OOP\bin\Debug\OOP.pdb
+D:\4th Semister\C#\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\4th Semister\C#\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\4th Semister\C#\OOP\obj\Debug\OOP.exe
+D:\4th Semister\C#\OOP\obj\Debug\OOP.pdb

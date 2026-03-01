@@ -1,0 +1,17 @@
+D:\4th Semister\C#\webform\bin\Debug\net10.0-windows\webform.exe
+D:\4th Semister\C#\webform\bin\Debug\net10.0-windows\webform.deps.json
+D:\4th Semister\C#\webform\bin\Debug\net10.0-windows\webform.runtimeconfig.json
+D:\4th Semister\C#\webform\bin\Debug\net10.0-windows\webform.dll
+D:\4th Semister\C#\webform\bin\Debug\net10.0-windows\webform.pdb
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.Form1.resources
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.csproj.GenerateResource.cache
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.GeneratedMSBuildEditorConfig.editorconfig
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.AssemblyInfoInputs.cache
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.AssemblyInfo.cs
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.csproj.CoreCompileInputs.cache
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.dll
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\refint\webform.dll
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.pdb
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.genruntimeconfig.cache
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\ref\webform.dll
+D:\4th Semister\C#\webform\obj\Debug\net10.0-windows\webform.Properties.Resources.resources

@@ -1,0 +1,16 @@
+D:\4th Semister\C#\Listbox\bin\Debug\net10.0-windows\Listbox.exe
+D:\4th Semister\C#\Listbox\bin\Debug\net10.0-windows\Listbox.deps.json
+D:\4th Semister\C#\Listbox\bin\Debug\net10.0-windows\Listbox.runtimeconfig.json
+D:\4th Semister\C#\Listbox\bin\Debug\net10.0-windows\Listbox.dll
+D:\4th Semister\C#\Listbox\bin\Debug\net10.0-windows\Listbox.pdb
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.Form1.resources
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.csproj.GenerateResource.cache
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.AssemblyInfoInputs.cache
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.AssemblyInfo.cs
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.csproj.CoreCompileInputs.cache
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.dll
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\refint\Listbox.dll
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.pdb
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\Listbox.genruntimeconfig.cache
+D:\4th Semister\C#\Listbox\obj\Debug\net10.0-windows\ref\Listbox.dll

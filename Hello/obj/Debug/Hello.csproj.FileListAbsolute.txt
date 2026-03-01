@@ -1,0 +1,7 @@
+D:\4th Semister\C#\Hello\bin\Debug\Hello.exe.config
+D:\4th Semister\C#\Hello\bin\Debug\Hello.exe
+D:\4th Semister\C#\Hello\bin\Debug\Hello.pdb
+D:\4th Semister\C#\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+D:\4th Semister\C#\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\4th Semister\C#\Hello\obj\Debug\Hello.exe
+D:\4th Semister\C#\Hello\obj\Debug\Hello.pdb
