@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4th Semister\\C#\\Masterpage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\department.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:department.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\bba.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:bba.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\uiit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:uiit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|d:\\4th semister\\c#\\masterpage\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{04E4D667-F896-4B64-ACB2-736587404010}|Masterpage.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BBA.aspx",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\BBA.aspx",
+              "RelativeDocumentMoniker": "BBA.aspx",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\BBA.aspx",
+              "RelativeToolTip": "BBA.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T11:31:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIIT.aspx",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\UIIT.aspx",
+              "RelativeDocumentMoniker": "UIIT.aspx",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\UIIT.aspx",
+              "RelativeToolTip": "UIIT.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T11:30:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.aspx",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\Department.aspx",
+              "RelativeDocumentMoniker": "Department.aspx",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\Department.aspx",
+              "RelativeToolTip": "Department.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T11:28:31.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "masterpage.Master",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\masterpage.Master",
+              "RelativeDocumentMoniker": "masterpage.Master",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\masterpage.Master",
+              "RelativeToolTip": "masterpage.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T10:37:37.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "feedback.aspx",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\feedback.aspx",
+              "RelativeDocumentMoniker": "feedback.aspx",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\feedback.aspx",
+              "RelativeToolTip": "feedback.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T11:08:35.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "AboutUs.aspx",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\AboutUs.aspx",
+              "RelativeToolTip": "AboutUs.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T10:54:25.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactUs.aspx",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\ContactUs.aspx",
+              "RelativeDocumentMoniker": "ContactUs.aspx",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\ContactUs.aspx",
+              "RelativeToolTip": "ContactUs.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T10:55:05.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\4th Semister\\C#\\Masterpage\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\4th Semister\\C#\\Masterpage\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-26T10:56:55.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
