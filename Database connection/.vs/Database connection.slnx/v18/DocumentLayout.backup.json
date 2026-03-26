@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B0E28F9C-7B14-8023-2BCA-EA34486653FE}|Database connection.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E28F9C-7B14-8023-2BCA-EA34486653FE}|Database connection.csproj|d:\\4th semister\\c#\\database connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0E28F9C-7B14-8023-2BCA-EA34486653FE}|Database connection.csproj|D:\\4th Semister\\C#\\Database connection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0E28F9C-7B14-8023-2BCA-EA34486653FE}|Database connection.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,12 +42,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.Table [Data]",
+              "Title": "dbo.Table.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Students/True/SqlTable/dbo.Table.sql",
-              "ToolTip": "dbo.Table [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Students/True/SqlTable/dbo.Table.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-02-28T07:44:49.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T07:44:49.276Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\4th Semister\\C#\\Database connection\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\4th Semister\\C#\\Database connection\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "D:\\4th Semister\\C#\\Database connection\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T07:32:45.672Z",
               "EditorCaption": " [Design]"
@@ -67,9 +66,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\4th Semister\\C#\\Database connection\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\4th Semister\\C#\\Database connection\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAABSAAAAAAAAAA==",
+              "ToolTip": "D:\\4th Semister\\C#\\Database connection\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T05:37:44.06Z",
               "EditorCaption": ""
