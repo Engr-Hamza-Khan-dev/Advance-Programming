@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>UIIT - Student Result Analyzer</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma;
+            background-color: #f4f7fb;
+        }
+
+        /* HEADER */
+        .header {
+            background: linear-gradient(to right, #0d47a1, #1976d2);
+            color: white;
+            padding: 15px 30px;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 26px;
+        }
+
+        .header p {
+            margin: 5px 0 0;
+            font-size: 14px;
+        }
+
+        /* NAVBAR */
+        .navbar {
+            background-color: #0d47a1;
+            overflow: hidden;
+        }
+
+        .navbar a {
+            float: left;
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 15px;
+        }
+
+        .navbar a:hover {
+            background-color: #1565c0;
+        }
+
+        /* CONTENT */
+        .content {
+            padding: 25px;
+            min-height: 80vh;
+        }
+
+        /* CARD STYLE */
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+
+        /* FOOTER */
+        .footer {
+            background-color: #0d47a1;
+            color: white;
+            text-align: center;
+            padding: 12px;
+            font-size: 14px;
+        }
+
+        /* TITLE BAR */
+        .title-bar {
+            margin-bottom: 20px;
+            font-size: 22px;
+            font-weight: bold;
+            color: #0d47a1;
+        }
+    </style>
+
+</head>
+
+<body>
+    <form runat="server">
+
+        <!-- HEADER -->
+        <div class="header">
+            <h1>🎓 UIIT - Student Result Analyzer System</h1>
+            <p>University Institute of Information Technology | Academic Management System</p>
+        </div>
+
+        <!-- NAVIGATION -->
+        <div class="navbar">
+            <a href="Default.aspx">🏠 Home</a>
+            <a href="AddStudent.aspx">👤 Add Student</a>
+            <a href="AddMarks.aspx">📝 Add Marks</a>
+            <a href="ViewResults.aspx">📊 View Results</a>
+        </div>
+
+        <!-- MAIN CONTENT -->
+        <div class="content">
+            <div class="card">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            </div>
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+            © 2026 UIIT Department | Student Result Analyzer System <br />
+            Developed by: Muhammad Hamza Khan
+        </div>
+
+    </form>
+</body>
+</html>

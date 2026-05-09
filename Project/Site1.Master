@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Student Result Analyzer</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial;
+            background-color: #f4f6f9;
+        }
+
+        /* Navbar */
+        .navbar {
+            background-color: #007bff;
+            padding: 15px;
+            color: white;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        /* Menu */
+        .menu {
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        .menu a {
+            float: left;
+            display: block;
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        .menu a:hover {
+            background-color: #575757;
+        }
+
+        /* Content Area */
+        .content {
+            padding: 20px;
+        }
+
+        /* Footer */
+        .footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+
+</head>
+
+<body>
+    <form runat="server">
+
+        <!-- Header -->
+        <div class="navbar">
+            🎓 Student Result Analyzer System
+        </div>
+
+        <!-- Navigation Menu -->
+        <div class="menu">
+            <a href="AddStudent.aspx">Add Student</a>
+            <a href="AddMarks.aspx">Add Marks</a>
+            <a href="ViewResults.aspx">View Results</a>
+        </div>
+
+        <!-- Page Content -->
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            © 2026 Student Result Analyzer | Developed by You
+        </div>
+
+    </form>
+</body>
+</html>

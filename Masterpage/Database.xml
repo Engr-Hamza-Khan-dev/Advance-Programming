@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIIT>
+  <Student>
+    <ID>102</ID>
+    <Name>Hamza</Name>
+    <Age>20</Age>
+    <Department>Software Engineering</Department>
+  </Student>
+  <Student>
+    <ID>44</ID>
+    <Name>Ali</Name>
+    <Age>22</Age>
+    <Department>Computer Science</Department>
+    <Marks>577</Marks>
+  </Student>
+  <student>
+    <name>daniyal</name>
+    <ID>678</ID>
+    <Degree>DVM</Degree>
+  </student>
+  <student>
+    <name>daniyal</name>
+    <ID>678</ID>
+    <Degree>DVM</Degree>
+  </student>
+  <student>
+    <name>daniyal</name>
+    <ID>678</ID>
+    <Degree>DVM</Degree>
+  </student>
+  <student>
+    <name>daniyal</name>
+    <ID>678</ID>
+    <Degree>DVM</Degree>
+  </student>
+</UIIT>
